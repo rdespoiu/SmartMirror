@@ -8,3 +8,5 @@ I modified and used code from Michael Teeuw's mirror implementation for the New 
 I used Google's API for fetching Google Calendar events.
 
 For facial recognition, I modified and used code from OpenCV and Tony DiCola's tutorial https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box/overview
+
+![](https://github.com/rdespoiu/SmartMirror/raw/master/IMG_24802.jpg)
